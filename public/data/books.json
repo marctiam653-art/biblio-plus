@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "category": "Roman",
+    "year": 1943,
+    "available": true,
+    "cover": "/covers/petit-prince.jpg",
+    "summary": "Un aviateur échoué dans le désert rencontre un petit prince."
+  },
+  {
+    "id": 2,
+    "title": "Germinal",
+    "author": "Émile Zola",
+    "category": "Roman",
+    "year": 1885,
+    "available": false,
+    "cover": "/covers/germinal.jpg",
+    "summary": "La grève des mineurs dans le nord de la France au XIXe siècle."
+  },
+  {
+    "id": 3,
+    "title": "L'Étranger",
+    "author": "Albert Camus",
+    "category": "Roman",
+    "year": 1942,
+    "available": true,
+    "cover": "/covers/etranger.jpg",
+    "summary": "Meursault, un homme indifférent, est jugé pour meurtre à Alger."
+  },
+  {
+    "id": 4,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "category": "Roman",
+    "year": 1862,
+    "available": false,
+    "cover": "/covers/miserables.jpg",
+    "summary": "Le destin de Jean Valjean, ancien forçat en quête de rédemption."
+  },
+  {
+    "id": 5,
+    "title": "Une si longue lettre",
+    "author": "Mariama Bâ",
+    "category": "Roman",
+    "year": 1979,
+    "available": true,
+    "cover": "/covers/longue-lettre.jpg",
+    "summary": "Une femme sénégalaise écrit à son amie après la mort de son mari."
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter à l'école des sorciers",
+    "author": "J. K. Rowling",
+    "category": "Jeunesse",
+    "year": 1997,
+    "available": true,
+    "cover": "/covers/harry-potter.jpg",
+    "summary": "Un orphelin découvre qu'il est un sorcier et entre à Poudlard."
+  },
+  {
+    "id": 7,
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "category": "Jeunesse",
+    "year": 1988,
+    "available": false,
+    "cover": "/covers/matilda.jpg",
+    "summary": "Une petite fille surdouée aux pouvoirs surprenants affronte l'injustice."
+  },
+  {
+    "id": 8,
+    "title": "Alice au pays des merveilles",
+    "author": "Lewis Carroll",
+    "category": "Jeunesse",
+    "year": 1865,
+    "available": true,
+    "cover": "/covers/alice.jpg",
+    "summary": "Alice suit un lapin blanc et tombe dans un monde absurde."
+  },
+  {
+    "id": 9,
+    "title": "Le Lion et la Souris",
+    "author": "Jean de La Fontaine",
+    "category": "Jeunesse",
+    "year": 1668,
+    "available": true,
+    "cover": "/covers/lion-souris.jpg",
+    "summary": "Une fable sur l'entraide : on a souvent besoin d'un plus petit que soi."
+  },
+  {
+    "id": 10,
+    "title": "Sapiens : Une brève histoire de l'humanité",
+    "author": "Yuval Noah Harari",
+    "category": "Documentaire",
+    "year": 2011,
+    "available": true,
+    "cover": "/covers/sapiens.jpg",
+    "summary": "L'histoire de l'espèce humaine, de la préhistoire à nos jours."
+  },
+  {
+    "id": 11,
+    "title": "Une brève histoire du temps",
+    "author": "Stephen Hawking",
+    "category": "Documentaire",
+    "year": 1988,
+    "available": false,
+    "cover": "/covers/histoire-du-temps.jpg",
+    "summary": "Une introduction accessible à la cosmologie et aux trous noirs."
+  },
+  {
+    "id": 12,
+    "title": "Pourquoi les nations échouent",
+    "author": "Daron Acemoglu et James Robinson",
+    "category": "Documentaire",
+    "year": 2012,
+    "available": true,
+    "cover": "/covers/nations-echouent.jpg",
+    "summary": "Les institutions expliquent les écarts de prospérité entre les pays."
+  }
+]
